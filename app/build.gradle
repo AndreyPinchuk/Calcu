@@ -30,6 +30,7 @@ dependencies {
 }
 
 
+
 jar {
     manifest {
         attributes 'Main-Class': 'calculator.App'
