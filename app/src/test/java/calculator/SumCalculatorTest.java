@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 class SumCalculatorTest {
     private SumCalculator calc;
 
+
     @BeforeEach
     public void beforeEach(){
         calc = new SumCalculator();
